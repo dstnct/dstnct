@@ -6,9 +6,9 @@
 
 <h2> / about me /</h2>
   
-- ⭐ currently working on **web-development**
-- ✍️ mostly working on **private repositories**
-- 👾 a **student** working his way around things
+- ⭐ actively working on **web-development**
+- ✍️ mostly working on **lmaobox luas**
+- 👾 a **hobby programmer** with some out of the box thinking
   
 <h2> / current skills / </h2>
   

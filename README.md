@@ -8,7 +8,7 @@
   
 - ⭐ actively working on **web-development**
 - ✍️ mostly working on **lmaobox luas**
-- 👾 a **hobby programmer** with some out of the box thinking
+- 👾 a **hobby programmer** doing most teenagers do
   
 <h2> / current skills / </h2>
   

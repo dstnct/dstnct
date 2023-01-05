@@ -2,13 +2,13 @@
 
 <div>
 
-<h2 align = center > / about me /</h2>
+<h2 > / about me /</h2>
   
 - ⭐ actively working on **web-development**
 - ✍️ mostly working on **lmaobox luas**
 - 👾 a **hobby programmer** doing most teenagers do
   
-<h2 align = center > / current skills / </h2>
+<h2> / current skills / </h2>
   
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />

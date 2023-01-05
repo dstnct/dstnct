@@ -2,7 +2,7 @@
 
 <div>
 
-<h2> / about me /</h2>
+  <h2> <center> / about me /</h2> </center>
   
 - ⭐ actively working on **web-development**
 - ✍️ mostly working on **lmaobox luas**

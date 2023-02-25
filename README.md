@@ -11,8 +11,9 @@
 <h2> / Current skills / </h2>
   
 - <h4> Languages </h4>
-  <img src = "https://img.shields.io/badge/-HTML%20%2F%20HTML5-orange" alt = "html" />
-  <img src = "https://img.shields.io/badge/-CSS-blue" alt = "css" />
+  <img src = "https://img.shields.io/badge/-HTML%20%2F%20HTML5-orange" alt = "Html" />
+  <img src = "https://img.shields.io/badge/-CSS-blue" alt = "Css" />
+  <img src = "https://img.shields.io/badge/-Lua-informational" alt = "Lua" />
   
 - <h2> Currently learning </h2>
     <img src = "https://img.shields.io/badge/-Java-important" alt = "java" />

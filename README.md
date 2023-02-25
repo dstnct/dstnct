@@ -2,23 +2,24 @@
 
 <div>
 
-<h2 > / about me /</h2>
+<h2 > / About me /</h2>
   
 - ⭐ actively working on **web-development**
 - ✍️ mostly working on **lmaobox luas**
 - 👾 a **hobby programmer** doing most teenagers do
   
-<h2> / current skills / </h2>
+<h2> / Current skills / </h2>
   
-- <h4> languages </h4>
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
+- <h4> Languages </h4>
+  <img src = "https://img.shields.io/badge/-HTML%20%2F%20HTML5-orange" alt = "html" />
+  <img src = "https://img.shields.io/badge/-CSS-blue" alt = "css" />
   
-  - <h5> currently learning </h5>
-    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
+- <h2> Currently learning </h2>
+    <img src = "https://img.shields.io/badge/-Java-important" alt = "java" />
   
-- <h4> designing tools </h4>
-  <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
+- <h4> Tools </h4>
+  <img src = "https://img.shields.io/badge/-Visual%20Studio-blue" alt = "Visual Studio" />
+  
   
   </br></br>
   
